@@ -24,3 +24,4 @@ Visit [https://clappr.github.io](https://clappr.github.io) to view the full docu
 1. Run `yarn install` to install all dependencies
 2. Run `yarn dev` will start the development server.
 3. Visit http://localhost:8080 to view your application.
+4. gogogogo
